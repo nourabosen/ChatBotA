@@ -14,7 +14,7 @@ A beautiful and interactive mobile application built with React Native that allo
 - **Error Handling**: Robust error handling with user-friendly messages and automatic retries for API rate limits.
 
 ## 📸 App Preview
-<video src="assets/Demo.mp4" controls width="600"></video>
+[▶️ Watch the Demo](assets/Demo.mp4)
 
 ## 🛠️ Tech Stack
 
